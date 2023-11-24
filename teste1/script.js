@@ -1,13 +1,13 @@
 // Leaflet - leafletjs.com
 
-const map = L.map('map').setView([-24.9558300, -53.4552800], 13);
+const map = L.map('map').setView([-24.915010, -53.422037], 16);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
-L.marker([-24.9558300, -53.4552800]).addTo(map)
-.bindPopup('Marcação de CSS.<br> Costumizável.')
+L.marker([-24.915010, -53.422037]).addTo(map)
+.bindPopup('Quadra de Esporte do Floresta <br>')
 .openPopup('');
 
 let isFetching = false
