@@ -12,7 +12,7 @@ Repositório para o projeto de Hackathon - 1° TADS | 2023.
 - Ana Caroline Pedrosa e Silva
 - Rodrigo Junior Souza Avelar
 - Gabriel Alburquerque
-- Yasmin Jasmin Almeida Oliveira*
+- Yasmin Jasmin Almeida Oliveira
 
 
 Written with  [StackEdit](https://stackedit.io/).
