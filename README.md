@@ -1,8 +1,9 @@
 # Hackathon I - IFPR - 1°TADS | 2023
 
-Repositório para o projeto do 1º Evento de Hackathon do IFPR - 1° TADS | 2023.
+Repositório para o projeto do 1º Evento de [Hackathon](https://ifpr.edu.br/cascavel/ifagrotech/) do IFPR - 1° TADS | 2023.
 
 Início: 23 de Novembro de 2023 (23/11/2023).
+
 Fim: 24 de Novembro de 2023 (24/11/2023).
 
 ## IFPR
