@@ -3,7 +3,6 @@
 Repositório para o projeto do 1º Evento de Hackathon do IFPR - 1° TADS | 2023.
 
 Início: 23 de Novembro de 2023 (23/11/2023).
-
 Fim: 24 de Novembro de 2023 (24/11/2023).
 
 ## IFPR
