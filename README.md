@@ -17,7 +17,7 @@ Fim: 24 de Novembro de 2023 (24/11/2023).
 - Yasmin Jasmin Almeida Oliveira.
 
 >**Em homenagem:
-[Os batutinhas]** 
+Os batutinhas** 
 
 
 Written with  [StackEdit](https://stackedit.io/).
